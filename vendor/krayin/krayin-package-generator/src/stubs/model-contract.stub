@@ -1,7 +1,0 @@
-<?php
-
-namespace $NAMESPACE$;
-
-interface $CLASS$
-{
-}

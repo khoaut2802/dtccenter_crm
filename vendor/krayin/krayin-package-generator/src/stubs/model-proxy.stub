@@ -1,7 +1,0 @@
-<?php
-
-namespace $NAMESPACE$;
-
-use Konekt\Concord\Proxies\ModelProxy;
-
-class $CLASS$ extends ModelProxy {}
